@@ -4,7 +4,11 @@ body,
 #cpanel_body {
 	font-weight: lighter;
 	color: #4f5860;
-	background-color: #f5f5f5;
+	background-image: url(https://jensz12.com/front/images/back.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
 }
 
 a,
