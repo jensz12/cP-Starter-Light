@@ -1,16 +1,17 @@
-
 /***************************** GLOBAL OVERIDE  *****************************/
 body,
 #cpanel_body {
 	font-weight: lighter;
 	color: #4f5860;
-	background-image: url(https://jensz12.com/front/images/back.jpeg);
+	background-image: url(https://jensz12.com/front/images/front_new.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
 }
-
+#i_installatron {
+	background-color: white;
+}
 a,
 .body-content a,
 .btn-link {

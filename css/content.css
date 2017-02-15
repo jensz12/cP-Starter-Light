@@ -188,7 +188,12 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
 	font-weight: lighter;
-}
+	color: grey;
+	}
+	/*Grey400*/
+p,label,th {
+	color: #BDBDBD;	
+	}
 h1.page-header {
 	border-bottom: 0;
 	font-weight: lighter;
